@@ -19,7 +19,7 @@ Navigate to `angular2-typescript-webpack` directory:
 
 > npm install
 
-`node_modules` and `typings` directories will be created during the install.
+`node_modules` directory will be created during the install.
 
 * Run tests
 
